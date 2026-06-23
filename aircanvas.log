@@ -1,0 +1,66 @@
+2026-06-22 20:32:40 | INFO     | __main__ | Starting AirCanvas Calculator v1.0.0
+2026-06-22 22:21:34 | INFO     | __main__ | Starting AirCanvas Calculator v1.0.0
+2026-06-22 22:21:34 | ERROR    | __main__ | MediaPipe hand model not found at 'C:\Users\sailp\OneDrive\Desktop\AirCanvasCalculator\assets\hand_landmarker.task'. Download hand_landmarker.task into assets/.
+2026-06-22 22:21:34 | ERROR    | __main__ | Tesseract OCR executable not found. Install Tesseract and/or set AIRCANVAS_TESSERACT_CMD to the full path of tesseract.exe.
+2026-06-22 22:21:34 | ERROR    | __main__ | Startup validation failed with 2 error(s).
+2026-06-22 22:52:10 | INFO     | __main__ | Starting AirCanvas Calculator v1.0.0
+2026-06-22 22:52:10 | ERROR    | __main__ | Tesseract OCR executable not found. Install Tesseract and/or set AIRCANVAS_TESSERACT_CMD to the full path of tesseract.exe.
+2026-06-22 22:52:10 | ERROR    | __main__ | Startup validation failed with 1 error(s).
+2026-06-22 23:52:58 | INFO     | __main__ | Starting AirCanvas Calculator v1.0.0
+2026-06-22 23:53:00 | INFO     | __main__ | Using Tesseract executable at 'C:\Program Files\Tesseract-OCR\tesseract.exe'
+2026-06-22 23:53:00 | INFO     | __main__ | Environment validation passed.
+2026-06-22 23:55:04 | INFO     | __main__ | Starting AirCanvas Calculator v1.0.0
+2026-06-22 23:55:04 | INFO     | __main__ | Using Tesseract executable at 'C:\Program Files\Tesseract-OCR\tesseract.exe'
+2026-06-22 23:55:04 | CRITICAL | __main__ | Application modules are not available yet: No module named 'ui.main_window'. Implement core.app_controller and ui.main_window to launch the UI.
+2026-06-23 00:11:23 | INFO     | ui.main_window | Main window initialized.
+2026-06-23 00:11:23 | INFO     | core.app_controller | OCR worker thread started.
+2026-06-23 00:11:23 | ERROR    | ui.main_window | UI received error: Test error signal
+2026-06-23 00:12:18 | INFO     | ui.main_window | Main window initialized.
+2026-06-23 00:12:18 | INFO     | core.app_controller | OCR worker thread started.
+2026-06-23 00:12:18 | ERROR    | ui.main_window | UI received error: Test error signal
+2026-06-23 00:12:18 | INFO     | ui.main_window | Main window closing; stopping application controller.
+2026-06-23 00:12:18 | INFO     | core.app_controller | OCR worker thread stopped.
+2026-06-23 00:16:05 | INFO     | __main__ | Starting AirCanvas Calculator v1.0.0
+2026-06-23 00:16:05 | INFO     | __main__ | Using Tesseract executable at 'C:\Program Files\Tesseract-OCR\tesseract.exe'
+2026-06-23 00:27:31 | INFO     | __main__ | Starting AirCanvas Calculator v1.0.0
+2026-06-23 00:27:31 | INFO     | __main__ | Using Tesseract executable at 'C:\Program Files\Tesseract-OCR\tesseract.exe'
+2026-06-23 00:29:13 | INFO     | __main__ | Starting AirCanvas Calculator v1.0.0
+2026-06-23 00:29:13 | INFO     | __main__ | Using Tesseract executable at 'C:\Program Files\Tesseract-OCR\tesseract.exe'
+2026-06-23 00:29:13 | INFO     | ui.main_window | Main window initialized.
+2026-06-23 00:29:13 | INFO     | core.app_controller | OCR worker thread started.
+2026-06-23 00:29:13 | INFO     | __main__ | AirCanvas Calculator started successfully.
+2026-06-23 00:33:44 | INFO     | ui.main_window | Main window closing; stopping application controller.
+2026-06-23 00:33:44 | INFO     | core.app_controller | OCR worker thread stopped.
+2026-06-23 00:33:44 | INFO     | __main__ | AirCanvas Calculator exited with code 0.
+2026-06-23 00:51:25 | INFO     | __main__ | Starting AirCanvas Calculator v1.0.0
+2026-06-23 00:51:25 | INFO     | __main__ | Using Tesseract executable at 'C:\Program Files\Tesseract-OCR\tesseract.exe'
+2026-06-23 00:51:26 | INFO     | ui.main_window | Main window initialized.
+2026-06-23 00:51:26 | INFO     | core.app_controller | OCR worker thread started.
+2026-06-23 00:51:26 | INFO     | __main__ | AirCanvas Calculator started successfully.
+2026-06-23 00:51:35 | INFO     | ui.main_window | Main window closing; stopping application controller.
+2026-06-23 00:51:35 | INFO     | core.app_controller | OCR worker thread stopped.
+2026-06-23 00:51:35 | INFO     | __main__ | AirCanvas Calculator exited with code 0.
+2026-06-23 00:51:38 | INFO     | __main__ | Starting AirCanvas Calculator v1.0.0
+2026-06-23 00:51:38 | INFO     | __main__ | Using Tesseract executable at 'C:\Program Files\Tesseract-OCR\tesseract.exe'
+2026-06-23 00:51:38 | INFO     | ui.main_window | Main window initialized.
+2026-06-23 00:51:39 | INFO     | core.app_controller | OCR worker thread started.
+2026-06-23 00:51:39 | INFO     | __main__ | AirCanvas Calculator started successfully.
+2026-06-23 00:52:31 | INFO     | ui.main_window | Main window closing; stopping application controller.
+2026-06-23 00:52:31 | INFO     | core.app_controller | OCR worker thread stopped.
+2026-06-23 00:52:31 | INFO     | __main__ | AirCanvas Calculator exited with code 0.
+2026-06-23 00:52:34 | INFO     | __main__ | Starting AirCanvas Calculator v1.0.0
+2026-06-23 00:52:34 | INFO     | __main__ | Using Tesseract executable at 'C:\Program Files\Tesseract-OCR\tesseract.exe'
+2026-06-23 00:52:34 | INFO     | ui.main_window | Main window initialized.
+2026-06-23 00:52:34 | INFO     | core.app_controller | OCR worker thread started.
+2026-06-23 00:52:34 | INFO     | __main__ | AirCanvas Calculator started successfully.
+2026-06-23 00:52:37 | INFO     | ui.main_window | Main window closing; stopping application controller.
+2026-06-23 00:52:37 | INFO     | core.app_controller | OCR worker thread stopped.
+2026-06-23 00:52:37 | INFO     | __main__ | AirCanvas Calculator exited with code 0.
+2026-06-23 23:10:58 | INFO     | __main__ | Starting AirCanvas Calculator v1.0.0
+2026-06-23 23:10:58 | INFO     | __main__ | Using Tesseract executable at 'C:\Program Files\Tesseract-OCR\tesseract.exe'
+2026-06-23 23:10:59 | INFO     | ui.main_window | Main window initialized.
+2026-06-23 23:10:59 | INFO     | core.app_controller | OCR worker thread started.
+2026-06-23 23:10:59 | INFO     | __main__ | AirCanvas Calculator started successfully.
+2026-06-23 23:11:03 | INFO     | ui.main_window | Main window closing; stopping application controller.
+2026-06-23 23:11:03 | INFO     | core.app_controller | OCR worker thread stopped.
+2026-06-23 23:11:03 | INFO     | __main__ | AirCanvas Calculator exited with code 0.

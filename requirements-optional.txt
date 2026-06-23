@@ -1,0 +1,7 @@
+# AirCanvasCalculator — optional OCR fallback
+# Install only if you want EasyOCR lazy-fallback support.
+# The application runs fully without these packages.
+# EasyOCR is lazy-loaded at runtime — never imported at startup.
+
+-r requirements.txt
+easyocr==1.7.2
